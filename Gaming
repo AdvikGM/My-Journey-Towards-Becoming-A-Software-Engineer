@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1> Gaming </h1>
+    <p> In the world of gaming there are so many games such as Roblox . Even though there are cyberbullies we are allowed to play them. </p>
+    <p> Some of the reviews of this game are:</p>
+    <ul>
+      <li> The game is very good and has a wonderful UI, a great many options in terms of games, interactive experiences and the freedom to play many genres of games, all following a common basic design style. Also, to fix the zooming problem on tablet or phone, just go to settings and change your camera inverted settings twice. So if it is ON, turn it OFF and then ON again.</li>
+      <li> Mind blowing! 😀 Roblox has every genre of game imaginable! Play with family, friends, or meet new ones. Chat, collaborate, and conquer together! Uninstalled once, but couldn't live without it. Reinstalled and now it's my forever childhood memory! The new games are more fun! But the only thing that annoys 😩 me about this game is that when I'm playing and i zoom in or out, the camera doesn't move and only the joystick moves and sometimes the joystick doesn't move and the camera moves.</li>
+    </ul>
+    <p> There is One more game called Minecraft and its reviews are:
+      <ul>
+        <li> It's the best seller game and it would continue to be the best as the developers are really talented, and make the community happy. If you haven't played this game before, you would be missing out on a lot of things. Greatest game ever. It has a little bit of storyline and it couldn't get repetitive but it can be it.. but still it's the best. It contains a little bit of strategy. Defeat a dragon and free the end, survive the nights and more. Really worth a try</li>
+        <li> I love minecraft i started playing this when i was about 7 right now im about to turn 10 in june but it does give me problems some times but im not exactly sure if its just my computer or wifi but it freezes sometimes and then closes out the app and other apps i have opened but honestly i think its just my computer but other than that its super awsome but does anyone know how to update this thing for the april fools update</li>
+    </ul>
+    <p> This is all abot my website. </p> 
+    <p> Pictures Of Roblox</p>
+    
+    <img src="Roblox-Pic.GIF" 
+         alt="Roblox"> 
+    <img src="Minecraft-Pic.GIF" 
+         alt="Minecraft"> 
+    
+  </body>
+</html>
