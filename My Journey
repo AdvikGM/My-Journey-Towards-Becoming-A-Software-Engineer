@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h2> My Journey Towards Becoming A Software Engineer.</h2>
+    <p> My only dream was to work with computers.Though Everybody knew somthing such as sports and atlethics, I wanted to learn coding</p>
+    <p> So it all started when my father was a software engineer and I got inspiered by him. I saw him working at CME Group. He was working with Javascript and C++.</p>
+    <p> It all started when I discovered Code.org. It is a fun way to learn new thing and languages about Coding.At first I thought It was waste of time.When my father bought me this laptop, he asked me this question: How is the laptop made?. I had no answer to it and thats when I started looking for the answer.</p>
+    <img src="Laptop-New.GIF" 
+         alt="Laptop."> 
+    <p> Even coding is intresting but hard. My father has all work meeting but if You want to learn it we can. Thats why you can't Judge a Fish by its Ability to Climb a Tree then it will belive that its whole life is stupid.</p>
+    <p>Right now I am learning HTML ans CSS which is getting harder day by day but I have the capabitlity to Conquer coding.</p>
+    <p> Thank You! </p>
+  
+    
+  </body>
+</html>
