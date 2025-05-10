@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h3> History Of Some Countries In The World</h3>
+    <p> I am going to tell you the history of Singapore,Australia and Usa</p>
+    <a href="Singapore.html">Singapore History</a>
+    <a href="Usa.html">Usa History</a>
+    <a href="Uae.html"> Uae History</a>
+  </body>
+</html>
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <h3> History Of Singapore</h3>
+  </head>
+  <body>
+    <a href="index.html">Back to Home</a>
+    <p> Singapore was found in the early 19th century. The last ruler of the Kingdom of Singapura, Parameswara, was expelled by the Majapahit or the Siamese before he founded Malacca. This Island Came under the Malacca Sultanate. In 1819, British statesman Stamford Raffles negotiated a treaty whereby Johor would allow the British to locate a trading port on the island, ultimately leading to the establishment of the Crown colony of Singapore in 1867. During the World War 2 Singapore was invaded by the Japanese Empire.</p>
+    <p> Singapore reverted to British control, with increasing levels of self-government being granted, resulting in Singapore's merger with the Federation of Malaya to form Malaysia in 1963.Singapore became an independent republic on 9 August 1965.the country had established a highly developed free market economy and strong international trading links. It now has the highest per capita gross domestic product in Asia, which is 7th in the world, and it is ranked 9th on the UN Human Development Index.</p>
+    <img src="Sin-Image.GIF" 
+         alt="SIngapore">
+    
+  </body>
+</html>
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <h3> History Of Uae</h3>
+  </head>
+  <body>
+    <a href="index.html">Back to Home</a>
+    <p> The United Arab Emirates Is a eastren Part of the Arabian Peninsula located on the southeastern coast of the Persian Gulf and the northwestern coast of the Gulf of Oman. The UAE consists of seven emirates and was founded on 2 December 1971 as a federation, after UK armed forces left the region. The States Are:
+      <ul>
+        <li> Abu Dhabi</li>
+        <li> Dubai </li>
+        <li> Sharjah </li>
+        <li> Ajman </li>
+        <li> Umm AI Quwian </li>
+        <li> Fujairh </li>
+        </ul>
+    <p> Artifacts uncovered in the UAE show a history of human habitation, transmigration and trade spanning over 125,000 years.[3] The area was previously home to the Magan people known to the Sumerians, who traded with both coastal towns and bronze miners and smelters from the interior. A rich history of trade with the Harappan culture of the Indus Valley is also evidenced by finds of jewelry and other items and there is also extensive early evidence of trade with Afghanistan </p>
+    <img src="Uae-Image.GIF" 
+         alt="Uae">
+  </body>
+</html>
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <h3> History of Usa</h3>
+  </head>
+  <body>
+    <a href="index.html">Back to Home</a>
+    <p> The United States began at 15000Bc with the first arrival of the Americas.In the late 15th century, European colonization began and wars and epidemics largely decimated Indigenous societies. By the 1760s, the Thirteen Colonies, then part of British America and the Kingdom of Great Britain, were established. The Southern Colonies built an agricultural system on slave labor and enslaving millions from Africa. After the British victory over the Kingdom of France in the French and Indian Wars, Parliament imposed a series of taxes and issued the Intolerable Acts on the colonies in 1773, which were designed to end self-governance. Tensions between the colonies and British authorities subsequently intensified, leading to the Revolutionary War, which commenced with the Battles of Lexington and Concord on April 19, 1775. In June 1775, the Second Continental Congress established the Continental Army and unanimously selected George Washington as its commander-in-chief.</p>
+    <p> The following year, on July 4, 1776, the Second Continental Congress unanimously declared its independence, issuing the Declaration of Independence.On September 3, 1783, in the Treaty Plains the British aknowledged the Thriteen Colonies leanding to the United States of America.</p>
+    <img src="Us-Image.GIF" 
+         alt="Usa">
+  </body>
+</html>
